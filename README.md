@@ -2,12 +2,13 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/Jarvis-184/makefun-gta6-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/Jarvis-184/makefun-gta6-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-# GTA 6 Meme: GTA Wrapped
-This is a GTA 6 meme created for the make.fun "Post a GTA 6 meme on X" bounty. It features a Spotify-Wrapped style card depicting the 4,811-day wait for GTA VI, starring the make.fun ghost. The `wrapped.png` image is rendered from `wrapped.html` by `make-meme-wrapped.sh` using headless Chrome, and the official X post address can be found in `POST.json`.
+# GTA 6 Meme: 3:47 AM Search History
+
+This project features a GTA 6 meme created for the make.fun "Post a GTA 6 meme on X" bounty. It depicts a humorous search-box autocomplete progression about waiting for GTA VI that concludes with the make.fun ghost. The search.png image is rendered from search.html using headless Chrome and the assets/ghost.png image, and the reference for the X post address can be found in POST.json.
 
 ## Run it
 ```sh
-bash make-meme-wrapped.sh
+bash make-meme-search.sh
 node main.ts
 ```
 
